@@ -1,6 +1,6 @@
 # First Go project
 
-This is the repository for a web project in Golang that I started learning from a course in Udemy. I recommend the instructor and the course.
+This is the repository for a web project in Golang that I started learning from a course in Udemy. It's a booking and reservations website
 
 - Go version 1.16
 - Uses [chi router](https://github.com/go-chi/chi/v5)
