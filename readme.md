@@ -6,5 +6,3 @@ This is the repository for a web project in Golang that I started learning from 
 - Uses [chi router](https://github.com/go-chi/chi/v5)
 - Uses [SCS session management (Alex Edwards)](https://github.com/alexedwards/scs/v2)
 - Uses [nosurf](https://github.com/justinas/nosurf)
-
-
