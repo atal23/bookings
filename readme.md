@@ -8,3 +8,4 @@ This is the repository for a web project in Golang that I started learning from 
 - Uses [nosurf](https://github.com/justinas/nosurf)
 - Uses [notie](https://github.com/jaredreich/notie)
 - Uses [vanillajs-datepicker](https://github.com/mymth/vanillajs-datepicker)
+- Uses [sweetalert2](https://sweetalert2.github.io/)
